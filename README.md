@@ -11,6 +11,7 @@ Press Esc to exit the program.
 🛠️ Requirements
 
 Windows OS
+Note:This won't work in linux.
 
 C compiler (e.g., MinGW or MSVC)
 
